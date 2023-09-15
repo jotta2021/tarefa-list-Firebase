@@ -1,6 +1,9 @@
 # README - Projeto de Lista de Tarefas com Firebase
 
+
 Bem-vindo ao meu projeto no GitHub! Neste repositório, você encontrará um aplicativo de Lista de Tarefas com integração ao Firebase. Este aplicativo permite aos usuários criar, editar, excluir tarefas e também realizar autenticação para acessar a aba principal. Abaixo, vou explicar como configurar, executar e contribuir para este projeto.
+
+<img src="https://github.com/jotta2021/tarefa-list-Firebase/blob/master/Captura%20de%20tela%202023-09-14%20210346.png?raw=true"/> 
 
 ## Visão Geral
 
